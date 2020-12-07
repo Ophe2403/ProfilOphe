@@ -1,0 +1,59 @@
+body{
+	background-image:url("fond.jpg");
+	background-size: cover;
+	font-family: "Roboto";
+}
+
+#general{
+	border: solid 3px black;
+	height: 1500px;
+	width: 900px;
+	border-radius: 20px;
+	margin-left: 250px;
+	background-image: url(https://mw.laparqueterienouvelle.fr/media/catalog/product/cache/10/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sol-stratifie-chene-bloom-gris-clair_laparqueterienouvelle_2800.jpeg);
+}
+
+#gen{
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.titre{
+	font-size: 25px;
+	font-weight: bold;
+	margin: auto;
+	border: solid 3px black;
+	width: 35%;		
+	text-align: center;
+	background-color: #EEA7EB;
+}
+#menfou {
+	height: 30%;
+	width: 30%;
+	text-align: center ;
+
+}
+
+
+#aaa{
+	height: 30%;
+	width: 30%;
+}
+
+#images{
+	text-align: center;
+}
+
+table{
+	position: relative;
+	border: 1px black solid;
+	margin: auto;
+	border-collapse: collapse;
+}
+
+th, td{
+	border: solid black 1px;
+}
